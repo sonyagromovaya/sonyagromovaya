@@ -1,5 +1,8 @@
-### I'm studying to be Full Stack Web Developer
+<h1> I'm studying to be Full Stack Web Developer</h1>
 
+### Hi there, I'm Sofia 👋
+
+![Lpj's github stats](https://github-readme-stats.vercel.app/api?username=sonyagromovayagit&show_icons=true&count_private=true)
 
 ### I’m currently learning
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)

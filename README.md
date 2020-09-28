@@ -1,9 +1,7 @@
-<h1> Hi there, I'm Sofia 👋</h1>
-
-### I'm studying to become a Full Stack Web Developer
+# I'm studying to become a Full Stack Web Developer
 
 
-### I’m currently learning
+### Currently learning
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 
 ### Language and Tools

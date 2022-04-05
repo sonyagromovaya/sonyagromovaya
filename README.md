@@ -10,7 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
 ### Follow Me 
-[![Telegram ](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sofiagromovaya)
 [![LinkedIn ](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/sofia-gromovaya-245741177/)
 <!-- 
 Here are some ideas to get you started:
